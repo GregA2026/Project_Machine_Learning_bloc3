@@ -46,9 +46,21 @@ Cette spatialité se retrouve de manière constante à toutes les échelles temp
  
 Les résultats suggèrent que Manhattan constitue la principale zone de demande, et donc un secteur stratégique pour positionner une part importante des chauffeurs Uber.  
 
-## Dataset
+## Datasets
 
-Dataset utlisé : uber-raw-data-apr14.csv  
+8 datasets fournis pour l'étude :  
+
+- taxi-zone-lookup.csv  
+- uber-raw-data-apr14.csv  
+- uber-raw-data-aug14.csv  
+- uber-raw-data-janjune-15.csv.zip  
+- uber-raw-data-jul14.csv  
+- uber-raw-data-jun14.csv  
+- uber-raw-data-may14.csv  
+- uber-raw-data-sep14.csv  
+
+Seul le dataset contenant les données d'avril 2014 est utilisé dans le projet : uber-raw-data-apr14.csv  
+Le dataset taxi-zone-lookup.csv contenant uniquement un nom de quartier et un nom de zone sans coordonnées, il a été ignoré dans l'étude.  
  
 ## Source du dataset 
 
@@ -60,14 +72,7 @@ Il est basé sur un dataset Kaggle et a été modifié par Jedha, mais la lien o
 ```
 ├── Uber_Pickups-Project
 ├────── data
-│       └── taxi-zone-lookup.csv
 │       └── uber-raw-data-apr14.csv
-│       └── uber-raw-data-aug14.csv
-│       └── uber-raw-data-janjune-15.csv.zip
-│       └── uber-raw-data-jul14.csv
-│       └── uber-raw-data-jun14.csv
-│       └── uber-raw-data-may14.csv
-│       └── uber-raw-data-sep14.csv
 ├────── images
 │       └── graphique.png
 │   └── Projet_Uber_Pickups.ipynb
@@ -76,7 +81,7 @@ Il est basé sur un dataset Kaggle et a été modifié par Jedha, mais la lien o
 ## Contenu du repository  
 
 📁 data :  
-  Dossier regroupant tous les datasets, seul dataset utilisé : uber-raw-data-apr14.csv  
+  Dossier contenant le seul dataset utilisé : uber-raw-data-apr14.csv  
 
 📁 images :  
   Graphique utilisé dans le readme  

@@ -89,4 +89,4 @@ Temps d'exécution global du notebook : <2s
 ## Auteur
  
 Grégory Augis   
-Projets deux sur trois réalisé dans le cadre de la certification du bloc 3 Data Analyst — Jedha Bootcamp.
+Projets trois sur trois réalisé dans le cadre de la certification du bloc 3 Data Analyst — Jedha Bootcamp.
