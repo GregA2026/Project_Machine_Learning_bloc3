@@ -1,0 +1,13 @@
+# Requirements - Projet Machine Learning
+# Version figée pour reproductibilité des notebooks
+
+pandas==2.2.3
+numpy==2.1.3
+
+plotly==6.5.2
+matplotlib==3.10.0
+seaborn
+
+scikit-learn==1.8.0
+xgboost==3.1.3
+kneed==0.8.6
