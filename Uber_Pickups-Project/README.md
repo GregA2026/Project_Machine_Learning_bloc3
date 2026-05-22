@@ -92,6 +92,11 @@ Il est basé sur un dataset Kaggle et a été modifié par Jedha, mais la lien o
 📄 README.md :  
   Ce fichier décrit le projet et sert de page d'accueil GitHub  
 
+ ## Dashboard du projet Uber  
+
+ Dashboard hébergé sur huggingface displonible à l'adresse :  
+ https://huggingface.co/spaces/GregA2026/Projet_Uber  
+
 ## Informations diverses
 
 Temps d'exécution global du notebook : 24s
