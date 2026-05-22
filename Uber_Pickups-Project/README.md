@@ -94,7 +94,7 @@ Il est basé sur un dataset Kaggle et a été modifié par Jedha, mais la lien o
 
  ## Dashboard du projet Uber  
 
- Dashboard hébergé sur huggingface displonible à l'adresse :  
+ Dashboard hébergé sur huggingface disponible à l'adresse :  
  https://huggingface.co/spaces/GregA2026/Projet_Uber  
 
 ## Informations diverses
